@@ -1,0 +1,31 @@
+
+
+.titulo{
+    color: white;   /*cambia color de las letras*/
+    background-color: red;  /*cambia de color el fondo*/
+    font-size: 35px;    /*cambia tamaño de letra*/
+}
+
+.subtitulo{
+    font-size: 20px;
+}
+
+.parrafo{
+    background-color: green;
+    color: white;
+    font-size: 20px;
+}
+
+.imagen{
+    width: 400px; /*cambia ancho de imagen*/
+    height: 400px; /*cambia largo de imagen*/
+}
+
+.link{
+    text-decoration: none; /*quita el subrayado del link*/
+    color: black; /*preguntar si hAY QUE PONERLE Comentarios*/
+}
+
+.link:hover{    /*cambia color de link al pasar el puntero de mouse*/
+    color: green;
+}
